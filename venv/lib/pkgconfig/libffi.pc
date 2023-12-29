@@ -1,0 +1,11 @@
+prefix=/Users/jibrankhan/Desktop/Ds-2024/ds_2024/ML-ad-click-prediction/venv
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+toolexeclibdir=${libdir}
+includedir=/Users/jibrankhan/Desktop/Ds-2024/ds_2024/ML-ad-click-prediction/venv/include
+
+Name: libffi
+Description: Library supporting Foreign Function Interfaces
+Version: 3.3
+Libs: -L${toolexeclibdir} -lffi
+Cflags: -I${includedir}
