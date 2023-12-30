@@ -1,14 +1,15 @@
 # ML Advertisement Click Prediction
 
-Overview
+### Overview
 
-In this project, we aim to develop a machine learning algorithm for predicting whether a particular user will click on an advertisement. We will work with an advertising dataset from Kaggle, which you can find here.
+In this project, we aim to develop a machine learning algorithm for predicting whether a particular user will click on an advertisement. We will work with an advertising dataset from Kaggle, which you can find here:
+https://www.kaggle.com/datasets/rizdelhi/my-datasets/data
 
-Dataset
+### Dataset
 
 The dataset has been sourced from Kaggle and contains information related to advertising campaigns. You can access the dataset here.
 
-Project Goal
+### Project Goal
 
 Develop a machine learning algorithm to predict whether a user will click on an advertisement.
 Utilize Exploratory Data Analysis (EDA) to gain insights into the dataset and visualize relationships between variables.
