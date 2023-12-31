@@ -9,7 +9,7 @@ https://www.kaggle.com/datasets/rizdelhi/my-datasets/data
 
 Develop a machine learning algorithm to predict whether a user will click on an advertisement.
 Utilize Exploratory Data Analysis (EDA) to gain insights into the dataset and visualize relationships between variables.
-Train a regression model to make predictions and assess its accuracy.
+Train a logistic regression model and other ML technique to make predictions and assess its accuracy.
 Exploratory Data Analysis (EDA)
 
 During the EDA phase, we will perform the following tasks:
