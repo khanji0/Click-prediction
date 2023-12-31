@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "/Users/jibrankhan/Desktop/Ds-2024/ds_2024/ML-ad-click-prediction/venv/bin/python",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}
